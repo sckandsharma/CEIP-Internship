@@ -1,4 +1,4 @@
-# 📘 Week 1 — ML Foundations
+# Week 1 — ML Foundations
 **CEIP Data Science Internship | Sckand Sharma**
 
 ---
