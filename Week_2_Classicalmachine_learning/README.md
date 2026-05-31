@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Tesla EV Deliveries & Production Analysis
@@ -12,6 +11,10 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Time_Series-4B8BBE?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Plots-76B947?style=for-the-badge)
+
+<br>
+
+[![Open in nbviewer](https://img.shields.io/badge/View_Notebook-nbviewer-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/sckandsharma/CEIP-Internship/blob/main/Week_2_Classicalmachine_learning/Sckand_Week2_assignment.ipynb)
 
 <br>
 
